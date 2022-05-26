@@ -1,0 +1,25 @@
+mkdir - faz diretório
+ls - lista
+dir - lista
+touch - cria arquivo
+cd .. - volta um diretório
+cd *nome da pasta* - entra na pasta
+rm - remove arquivo
+
+git status
+
+git add .
+
+git commit -m ""
+
+git status
+
+git log - mostra commits
+
+essencial:
+
+git add
+git commit
+git push
+
+git branch -m 
