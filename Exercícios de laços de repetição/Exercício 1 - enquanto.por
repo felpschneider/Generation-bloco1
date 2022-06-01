@@ -1,6 +1,6 @@
 programa
 {
-	/* Exercício 1 - enquanto
+	/* Exercício 1 - enquanto
 	 * Autor: Felipe Schneider - Turma 54 de Java da Generation
 	 * Data: 31/05/2022 - 14h03min
 	 */
@@ -10,8 +10,8 @@ programa
 		inteiro numero2 = 0
 		inteiro numero3 = 0
 
-		real media = 0
-		real totalValores = 0
+		real media = 0.0
+		real totalValores = 0.0
 		inteiro soma = 0
 		
 		enquanto (verdadeiro){
@@ -54,7 +54,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 130; 
+ * @POSICAO-CURSOR = 268; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
