@@ -1,9 +1,10 @@
 programa
 {
 	inclua biblioteca Util
+	inclua biblioteca Matematica --> mat
 	/* Exercício 2 - Vetores 
 	 * Autor: Felipe Schneider - Turma 54 de Java da Generation
-	 * Data: 01/06/2022 - 16h
+	 * Data: 01/06/2022 - 19h45
 	 */	
 	funcao inicio()
 	{
@@ -33,7 +34,10 @@ programa
 
 		escreva("\nO maior valor que caiu foi " + maiorPonto + " tendo " + ocorrenciaDados + 
 		" ocorrências")
+
+		mediaDados /= Util.numero_elementos(valorDados)
 		
+		escreva("\nA média dos valores foi de " + mat.arredondar(mediaDados, 3))
 		
 	}
 }
@@ -42,9 +46,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 587; 
+ * @POSICAO-CURSOR = 184; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {ocorrenciaDados, 12, 10, 15}-{valorDados, 10, 10, 10}-{maiorPonto, 13, 10, 10};
+ * @SIMBOLOS-INSPECIONADOS = {valorDados, 11, 10, 10}-{ocorrenciaDados, 13, 10, 15}-{maiorPonto, 14, 10, 10};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
