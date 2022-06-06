@@ -4,7 +4,7 @@ programa
 	inclua biblioteca Util
 	/* 	Exercício 3.a e 3.b - Matrizes 
 	 * 	Autor: Felipe Schneider - Turma 54 de Java da Generation
-	 * 	Data: 01/06/2022 - 19h45
+	 * 	Data: 01/06/2022 - 20h37min
 	 */	
 	funcao inicio()
 	{
@@ -46,7 +46,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 98; 
+ * @POSICAO-CURSOR = 204; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {N1, 11, 7, 2}-{N2, 12, 7, 2}-{M2, 14, 7, 2};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
